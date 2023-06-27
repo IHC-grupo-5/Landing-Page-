@@ -74,8 +74,11 @@ form .btn {
   background-color: #274c77;
 }
 
-#bibibi{
-  background-color: #274c77;
+#conta{
+  height: 300px;
+}
+#oo{
+  width: 40%;
 }
 .hero {
   background-image: linear-gradient(
